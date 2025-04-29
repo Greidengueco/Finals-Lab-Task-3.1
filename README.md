@@ -1,4 +1,4 @@
-# Final-Task-3.1 Using MYSQL CLAUSE
+# Finals-Lab-Task-3.1 Using MYSQL CLAUSE
 
 This portfolio shows basic SQL skills through MySQL queries. It focuses on managing an online course database by retrieving, organizing, and summarizing data using different SQL techniques on an existing dataset.
 
